@@ -1,0 +1,1 @@
+images_link : https://drive.google.com/drive/folders/1qY_-KU5jM5vULRdyfeEowAqr1hlEvl2k?usp=sharingyolo_model :  https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt
